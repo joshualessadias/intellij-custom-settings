@@ -220,12 +220,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="d372e6" />
+        <option name="FOREGROUND" value="83c08b" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="d372e6" />
+        <option name="FOREGROUND" value="83c08b" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -235,7 +235,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="c77dbb" />
+        <option name="FOREGROUND" value="d091c8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -289,7 +289,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="df9dd6" />
+        <option name="FOREGROUND" value="d091c8" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -299,7 +299,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="d372e6" />
+        <option name="FOREGROUND" value="83c08b" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -360,7 +360,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="df9dd6" />
+        <option name="FOREGROUND" value="d091c8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -372,7 +372,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="6aab73" />
+        <option name="FOREGROUND" value="c7c28c" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
