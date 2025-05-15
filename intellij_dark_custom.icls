@@ -220,12 +220,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="83c08b" />
+        <option name="FOREGROUND" value="a3ba9a" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="83c08b" />
+        <option name="FOREGROUND" value="a3ba9a" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -268,12 +268,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="56a8f5" />
+        <option name="FOREGROUND" value="75b1ea" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="56a8f5" />
+        <option name="FOREGROUND" value="75b1ea" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -292,14 +292,9 @@
         <option name="FOREGROUND" value="d091c8" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_METHOD">
-      <value>
-        <option name="FOREGROUND" value="56a8f5" />
-      </value>
-    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="83c08b" />
+        <option name="FOREGROUND" value="a3ba9a" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -321,7 +316,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="b3ae60" />
+        <option name="FOREGROUND" value="b0a156" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -366,7 +361,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="56a8f5" />
+        <option name="FOREGROUND" value="75b1ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -501,7 +496,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="293c40" />
+        <option name="BACKGROUND" value="242e2e" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -734,6 +729,7 @@
         <option name="ERROR_STRIPE_COLOR" value="42bd77" />
       </value>
     </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="Static method access">
       <value>
         <option name="FOREGROUND" value="c77dba" />
