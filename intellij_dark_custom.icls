@@ -1,7 +1,8 @@
-<scheme name="Dark" version="142" parent_scheme="Darcula">
+<scheme name="intellij_dark_custom" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.1.1.1.0.0</property>
+    <property name="originalScheme">intellij_dark_custom</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
@@ -372,7 +373,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="bcbec4" />
+        <option name="FOREGROUND" value="cf8e6d" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -451,16 +452,8 @@
         <option name="FOREGROUND" value="56a8f5" />
       </value>
     </option>
-    <option name="HTML_TAG">
-      <value>
-        <option name="FOREGROUND" value="d5b778" />
-      </value>
-    </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="d5b778" />
-      </value>
-    </option>
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="548af7" />
