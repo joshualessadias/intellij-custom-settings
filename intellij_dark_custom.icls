@@ -1,7 +1,7 @@
 <scheme name="intellij_dark_custom" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2025.1.1.1.0.0</property>
+    <property name="ideVersion">2025.1.2.0.0</property>
     <property name="originalScheme">intellij_dark_custom</property>
   </metaInfo>
   <colors>
@@ -166,7 +166,7 @@
       <value>
         <option name="FOREGROUND" value="548af7" />
         <option name="EFFECT_COLOR" value="548af7" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
